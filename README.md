@@ -1,8 +1,10 @@
 [![MasterHead](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc0MDA4OTIsIm5iZiI6MTcxNzQwMDU5MiwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MDMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjAzVDA3NDMxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJiYzg0YWMyNWRkMmIzMDUwN2M5ZjgxMzU3MjU0NzIwZDZjZjVhODc5YTIzYTJhN2YwYjJkNDI1ZTQ4MGYyOTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.LIKglhdfWlB12GCM3AeKsdaQ07EklyxzfNizYx8YZ4I)](https://github.com/Walker65434)
-<h1 align="center">Hi 👋, I'm Vandit Shah</h1>
+<h2 align="center">Hi 👋, I'm Vandit Shah</h2>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walker65434&label=Profile%20views&color=0e75b6&style=flat" alt="walker65434" /> </p>
 
