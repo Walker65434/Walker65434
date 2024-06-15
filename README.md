@@ -6,9 +6,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=walker65434&label=Profile%20views&color=0e75b6&style=flat" alt="walker65434" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walker65434&label=Profile%20views&color=blueviolet&style=plastic&abbreviated=true" alt="walker65434" /> </p>
 
-- 🌱 I’m currently learning **BSc IT HONS**
+- 🌱 I'm currently pursuing **BSc IT HONS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
